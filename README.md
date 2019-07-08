@@ -7,10 +7,6 @@ This repository contains resoucres related to weekly algorithm problems and solu
 
 See below for additional learning resources.
 
-## Past Presentation Slides
-- [Big O Notation](https://docs.google.com/presentation/d/1q-yGw-ekqtHOtoCOCxXJIVUpfyg-5CGrX1tZs1PlO2U/edit?usp=sharing)
-- [REACTO](https://www.fullstackacademy.com/blog/the-reacto-pattern-for-acing-technical-interviews)
-- [Preparing for the Technical Interview](https://docs.google.com/presentation/d/1YcBQ4_w2u5BoS86GDvosDQdwIvmfNhLQY7xIf_7MwTE/pub?start=false&loop=false&delayms=3000)
 
 ## Whiteboarding Problems
 - [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
@@ -30,5 +26,10 @@ See below for additional learning resources.
 - [CodeNewbie](http://www.codenewbie.org/)
 - [Khan Academy](https://www.khanacademy.org/computing)
 - [BaseCS Podcast](https://www.codenewbie.org/basecs)
+- Women Who Code NYC algorithms presentations:
+  - [Big O Notation](https://docs.google.com/presentation/d/1q-yGw-ekqtHOtoCOCxXJIVUpfyg-5CGrX1tZs1PlO2U/edit?usp=sharing)
+  - [REACTO](https://www.fullstackacademy.com/blog/the-reacto-pattern-for-acing-technical-interviews)
+  - [Preparing for the Technical Interview](https://docs.google.com/presentation/d/1YcBQ4_w2u5BoS86GDvosDQdwIvmfNhLQY7xIf_7MwTE/pub?start=false&loop=false&delayms=3000)
+
 
 This README was heavily influenced by https://github.com/WomenWhoCodeNYC/Algorithms/
