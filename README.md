@@ -1,5 +1,5 @@
 # We Build Black Algorithms
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 This repository contains resoucres related to weekly algorithm problems and solutions for We Build Black. Each week the problems will be updated here and shared in the We Build Black Slack community. Here you can find all of the past problems and ongoing solutions for past Algorithms.
 
 # [Link to this week's problems](https://github.com/WeBuildBlack/Algorithms/blob/master/July-8-19.md)
@@ -45,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/ianlennymatthews"><img src="https://avatars2.githubusercontent.com/u/29735316?v=4" width="100px;" alt="ianlennymatthews"/><br /><sub><b>ianlennymatthews</b></sub></a><br /><a href="https://github.com/WeBuildBlack/Algorithms/commits?author=ianlennymatthews" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jaythaceo"><img src="https://avatars3.githubusercontent.com/u/4792842?v=4" width="100px;" alt="Jason Brooks"/><br /><sub><b>Jason Brooks</b></sub></a><br /><a href="https://github.com/WeBuildBlack/Algorithms/commits?author=jaythaceo" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.aboutmonica.com"><img src="https://avatars0.githubusercontent.com/u/6998954?v=4" width="100px;" alt="Monica Powell"/><br /><sub><b>Monica Powell</b></sub></a><br /><a href="https://github.com/WeBuildBlack/Algorithms/commits?author=M0nica" title="Code">💻</a> <a href="#maintenance-M0nica" title="Maintenance">🚧</a> <a href="#projectManagement-M0nica" title="Project Management">📆</a></td>
   </tr>
 </table>
 
