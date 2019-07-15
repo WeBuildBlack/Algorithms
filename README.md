@@ -1,4 +1,5 @@
 # We Build Black Algorithms
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 This repository contains resoucres related to weekly algorithm problems and solutions for We Build Black. Each week the problems will be updated here and shared in the We Build Black Slack community. Here you can find all of the past problems and ongoing solutions for past Algorithms.
 
 # [Link to this week's problems](https://github.com/WeBuildBlack/Algorithms/blob/master/July-8-19.md)
@@ -33,3 +34,19 @@ See below for additional learning resources.
 
 
 This README was heavily influenced by https://github.com/WomenWhoCodeNYC/Algorithms/
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ianlennymatthews"><img src="https://avatars2.githubusercontent.com/u/29735316?v=4" width="100px;" alt="ianlennymatthews"/><br /><sub><b>ianlennymatthews</b></sub></a><br /><a href="https://github.com/WeBuildBlack/Algorithms/commits?author=ianlennymatthews" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
