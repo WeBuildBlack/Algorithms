@@ -22,7 +22,14 @@
       "contributions": [
         "code",
         "maintenance",
-        "projectManagement"
+        "projectManagement"]},
+{
+      "login": "jaythaceo",
+      "name": "Jason Brooks",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4792842?v=4",
+      "profile": "https://github.com/jaythaceo",
+      "contributions": [
+        "code",
       ]
     }
   ],
