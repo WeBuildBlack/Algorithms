@@ -1,0 +1,6 @@
+### [Duplicate Zeros](https://github.com/WeBuildBlack/Algorithms/blob/master/challenges/duplicate-zeros/duplicate-zeros.md)
+
+Some Reminders!
+
+- Be on the lookout for new problems to submit, it would be greatly appreciated! 🙏🙏🙏
+- But also submit solutions if you'd like! Open a PR, be a contributor!
