@@ -3,7 +3,7 @@
 class Solution(object):
 	"""
 	"""
-	def duplicateZeros(self, arg):
+	def duplicateZeros(self, arr):
 		arr_copy = arr[:]
 		index, n = 0, len(arr_copy)
 		for elem in arr_copy:
