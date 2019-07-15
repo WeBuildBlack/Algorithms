@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ianlennymatthews",
+      "name": "ianlennymatthews",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29735316?v=4",
+      "profile": "https://github.com/ianlennymatthews",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Algorithms",
+  "projectOwner": "WeBuildBlack",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
