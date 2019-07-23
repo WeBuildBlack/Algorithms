@@ -1,4 +1,4 @@
-# Distnt Barcodes
+# Distant Barcodes
 
 ## Problem
 
