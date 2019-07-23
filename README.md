@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 This repository contains resoucres related to weekly algorithm problems and solutions for We Build Black. Each week the problems will be updated here and shared in the We Build Black Slack community. Here you can find all of the past problems and ongoing solutions for past Algorithms.
 
-# [Link to this week's problems](https://github.com/WeBuildBlack/Algorithms/blob/master/July-15-19.md)
+# [Link to this week's problems](https://github.com/WeBuildBlack/Algorithms/blob/master/July-23-19.md)
 
 **If you'd like to contribute to this repo or learn about volunteering, check out [How To Contribute](./howToContribute.md)**!
 
